@@ -1,0 +1,35 @@
+{
+  "applicationName": "ExpenseTracker",
+  "applicationId": "com.mycompany.myAppID",
+  "versionString": "1.0",
+  "versionCode": "1",
+  "icon": {
+    "36": "resources/icons/Icon_Android36.png",
+    "48": "resources/icons/Icon_Android48.png",
+    "72": "resources/icons/Icon~ipad.png"
+  },
+  "inputPath": "C:\\Zend\\Apache2\\htdocs\\sencha_apps\\ExpenseTracker\\build\\package",
+  "outputPath": "C:\\Zend\\Apache2\\htdocs\\sencha_apps\\ExpenseTracker\\build\\native",
+  "configuration": "Debug",
+  "platform": "Android",
+  "deviceType": "Universal",
+  "certificatePath": "",
+  "certificatePassword": "",
+  "sdkPath": "C:/Mobile/adt-bundle-windows/sdk",
+  "androidAPILevel": "8",
+  "permissions": [
+    "INTERNET",
+    "ACCESS_NETWORK_STATE",
+    "CAMERA",
+    "VIBRATE",
+    "ACCESS_FINE_LOCATION",
+    "ACCESS_COARSE_LOCATION",
+    "CALL_PHONE"
+  ],
+  "orientations": [
+    "portrait",
+    "landscapeLeft",
+    "landscapeRight",
+    "portraitUpsideDown"
+  ]
+}
